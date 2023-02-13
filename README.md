@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BanceDev
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning Rust, JavaFX, and web wevelopment with React.
+- 👀 I’m interested in game development and robotics controls programming
+- 🌱 I’m currently learning programming to microcontrollers
 
 <!---
 BanceDev/BanceDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
