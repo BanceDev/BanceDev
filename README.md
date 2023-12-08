@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BanceDev
-- 👀 I’m interested in game development and robotics controls programming
-- 🌱 I’m currently learning programming to microcontrollers
+- I am a GoldSrc Modder, currently developing Half-Live: a multiplayer arena fps taking inspriation from half life and quake 3 arena.
+- Rotics controlls programmer for OSU Lunabotics.
+- Indie dev who has happily divorced Unity for Godot.
 
 <!---
 BanceDev/BanceDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
