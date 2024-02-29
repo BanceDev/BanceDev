@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BanceDev
-- I am a GoldSrc Modder, currently developing Half-Live: a multiplayer arena fps taking inspriation from half life and quake 3 arena.
-- Rotics controlls programmer for OSU Lunabotics.
+- I am a GoldSrc Modder, currently developing Half-Live: a multiplayer arena fps taking inspriation from half life and quake.
+- Also working on completing the scrapped multiplayer for WRATH: Aeon of Ruin.
+- Rotics controls programmer for OSU Lunabotics.
 - Indie developer with experience in Unity and Godot.
 
 <!---
