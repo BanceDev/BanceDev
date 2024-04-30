@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BanceDev
-- I am a Quake engine developer currently working on an indie FPS game.
+- I am a Quake engine developer currently working on an all in one quake development kit called Quake Prism.
 - Also working on completing the scrapped multiplayer for WRATH: Aeon of Ruin.
 
 <!---
