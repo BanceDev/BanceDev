@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BanceDev
-- I am a Quake engine developer currently working on an all in one Quake development kit called Quake Prism.
-- Also working on completing the scrapped multiplayer for WRATH: Aeon of Ruin.
+- 🐧 obsessed with linux and neovim
+- 🎮 Quake engine developer currently working on an all in one Quake development kit called Quake Prism
+- 🤖 OSU Lunabotics drive and controls programmer
 
 <!---
 BanceDev/BanceDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
