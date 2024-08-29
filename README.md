@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @BanceDev
 - 🐧 obsessed with linux and neovim
-- 🎮 Quake engine developer currently working on an all in one Quake development kit called Quake Prism
+- 🎮 Creator and core maintainer of Quake Prism
 - 🤖 OSU Lunabotics drive and controls programmer
 
 ## Programming Languages
