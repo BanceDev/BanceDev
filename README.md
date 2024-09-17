@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @BanceDev
 - 🐧 obsessed with linux and neovim
-- 🎮 Creator and core maintainer of Quake Prism
 - 🤖 OSU Lunabotics drive and controls programmer
 
 ## Programming Languages
