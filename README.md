@@ -2,7 +2,9 @@
 
 - 👋 Hi, I’m @BanceDev
 - 🐧 obsessed with linux and neovim
-- 🤖 OSU Lunabotics drive and controls programmer
+- 🤖 OSU Lunabotics automation programmer
+- 🎮 Quake engine modder
+- 🎨 Neocities contributor
 
 ## Programming Languages
 
