@@ -1,8 +1,8 @@
 # About Me
 
 - 👋 Hi, I’m @BanceDev
-- 🐧 obsessed with linux and neovim
-- 🤖 OSU Lunabotics automation programmer
+- 🐧 Obsessed with linux and neovim
+- ❄️ Creator of Frostty terminal emulator
 - 🎮 Quake engine modder
 - 🎨 Neocities contributor
 
